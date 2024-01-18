@@ -1,0 +1,129 @@
+---
+title: "Math 265: Homework 1"
+author: "Your Name"
+date: today
+format: 
+    gfm: 
+      toc: true
+      toc-depth: 2
+      fig-height: 4
+      fig-width: 9
+editor: visual
+execute: 
+  echo: true
+  warning: false
+---
+
+```{r}
+#| label: setup
+#| include: false
+library(tidyverse)
+library(ggplot2)
+library(ggthemes)
+```
+
+# Overview
+
+This assignment asks you to get practice with `ggplot2` using data sets built into the `ggplot2` package. Because the YAML heder contains the option `echo: true`, whenever you render your Quarto document, it will contain your R commands, the R output and your narrative text. Submit by pushing to your GitHub repository. You are required to have at least 3 commits. I recommend that the first be after you have replaced "Your Name" with your actual name in the YAML header above.
+
+# Make the Plot You See
+
+In questions 1-6 below, use the specified data set to create the plot shown. Be sure to double-check the data set name for each problem.
+
+1)  Use **mtcars** to reproduce this figure.
+
+![](figs/q1fig.png){fig-align="center" width="75%"}
+
+**Answer:**
+
+```{r}
+
+```
+
+2)  Use **mpg** to reproduce this figure.
+
+![](figs/q2fig.png){fig-align="center" width="75%"}
+
+**Answer:**
+
+```{r}
+
+```
+
+3)  Use **airquality** to reproduce this figure.
+
+![](figs/q3fig.png){fig-align="center" width="75%"}
+
+**Answer:**
+
+```{r}
+
+```
+
+4)  Use **mpg** to reproduce this figure.
+
+![](figs/q4fig.png){fig-align="center" width="75%"}
+
+**Answer:**
+
+```{r}
+
+```
+
+5)  Use **mpg** to reproduce this figure.
+
+![](figs/q5fig.png){fig-align="center" width="75%"}
+
+**Answer:**
+
+```{r}
+
+```
+
+6)  Use **mpg** to reproduce this figure.
+
+![](figs/q6fig.png){fig-align="center" width="75%"}
+
+**Answer:**
+
+```{r}
+
+```
+
+# Create Plots to Explore the Diamonds Data
+
+In questions 7-10 below, use the **diamonds** data from **ggplot2** to create the type of plot specified.[^1]
+
+[^1]: Use `?diamonds` to read about the data set.
+
+7)  Create a plot of counts for a discrete variable in the **diamonds** data set.
+
+**Answer:**
+
+```{r}
+
+```
+
+8)  Create a histogram or density plot of a continuous variable in the **diamonds** data set.
+
+**Answer:**
+
+```{r}
+
+```
+
+9)  Using the **diamonds** data, create a scatterplot of two continuous variables, with a smoothing line overlaid.
+
+**Answer:**
+
+```{r}
+
+```
+
+10) Using the **diamonds** data, create overlaid density plots with alpha transparency like the one shown [here](https://r4ds.hadley.nz/data-visualize_files/figure-html/unnamed-chunk-32-1.png) for the **penguins** data.
+
+**Answer:**
+
+```{r}
+
+```
