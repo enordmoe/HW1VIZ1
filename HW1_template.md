@@ -1,6 +1,6 @@
 # Math 265: Homework 1
 Your Name
-2024-01-18
+2024-01-20
 
 - [Overview](#overview)
 - [Make the Plot You See](#make-the-plot-you-see)
@@ -46,7 +46,7 @@ shown. Be sure to double-check the data set name for each problem.
 
 **Answer:**
 
-5)  Use **mpg** to reproduce this figure.
+5)  Use **airquality** to reproduce this figure.
 
 <img src="figs/q5fig.png" style="width:75.0%" data-fig-align="center" />
 

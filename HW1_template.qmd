@@ -70,7 +70,7 @@ In questions 1-6 below, use the specified data set to create the plot shown. Be 
 
 ```
 
-5)  Use **mpg** to reproduce this figure.
+5)  Use **airquality** to reproduce this figure.
 
 ![](figs/q5fig.png){fig-align="center" width="75%"}
 
