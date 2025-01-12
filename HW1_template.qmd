@@ -112,7 +112,7 @@ In questions 7-10 below, use the **diamonds** data from **ggplot2** to create th
 
 ```
 
-9)  Using the **diamonds** data, create a scatterplot of two continuous variables, with a smoothing line overlaid.
+9)  Using the **diamonds** data, create a scatterplot of two numerical variables with an aesthetic mapped to the values a third variable categorical which is categorical. Your scatterplot should also have a single smoothing line overlaid.
 
 **Answer:**
 

@@ -1,6 +1,6 @@
 # Math 265: Homework 1
 Your Name
-2024-01-20
+2025-01-11
 
 - [Overview](#overview)
 - [Make the Plot You See](#make-the-plot-you-see)
@@ -73,8 +73,10 @@ create the type of plot specified.[^1]
 
 **Answer:**
 
-9)  Using the **diamonds** data, create a scatterplot of two continuous
-    variables, with a smoothing line overlaid.
+9)  Using the **diamonds** data, create a scatterplot of two numerical
+    variables with an aesthetic mapped to the values a third variable
+    categorical which is categorical. Your scatterplot should also have
+    a single smoothing line overlaid.
 
 **Answer:**
 
